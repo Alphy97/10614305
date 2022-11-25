@@ -1,10 +1,10 @@
 # CA1-Assignment 
 https://github.com/Alphy97/10614305.git
-for referance 
+# referance 
 Element	Markdown Syntax
-Heading	# H1
-           ## H2
-            ### H3
+Heading	# heading first
+           ## sub section
+           ### sub section2
 Bold	**bold text**
 Italic	*italicized text*
 Blockquote	> blockquote
