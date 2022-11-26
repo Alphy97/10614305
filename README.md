@@ -28,7 +28,8 @@ Image	![alt text](https://www.bing.com/images/search?view=detailV2&ccid=NAi4PT8k
 ## Introduction
 Businesses struggling to cope with serious IT technical issues,security challenges and the threat their data and systems from cyber hacking,now is the time reasses what technology is for ,and wheather there is an alternative to in-house IT-network. Fortunately we have alternative :cloud computing .Arrival of cloud computing gave an opportunity for SMEs to take control of their IT systems once and for all.Cloud computing offers the chnace to take management of all your business's IT issues away while remaining fully in control.
 
-###**Background of the enterprise**
+### **Background of the enterprise**
+
 This report provides analysis of IT setup as well as cloud strategy of Softla technologies Private Ltd.
 Softla technologies is a private company established on june 23 2013 in Ernakulam india.
 They are focusing on providing IT related services and solutions especially in the field of Automobile,Argriculture,hospitality and software solutions.The company primarily focuses on publishing, consulting, and provision of software. Software publication comprises the creation, provision, and documentation of pre-built (non-customized) operating systems, business & other applications, and computer game software for all platforms. Providing the best answer in the form of custom software after assessing the user's demands and issues is part of consulting. Custom software also covers software that is created specifically for a user's request. Included are also web page creation, software maintenance, and writing any type of program in accordance with user instructions.
