@@ -48,6 +48,7 @@ Softila project management is done via non cloud solution while application deve
 | Syntax | Description |
 
 | ----------- | ----------- |
+
 | Header | Title |
 
 | Paragraph | Text| 
