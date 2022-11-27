@@ -34,8 +34,10 @@ Businesses struggling to cope with serious IT technical issues,security challeng
 This report provides analysis of IT setup as well as cloud strategy of Softla technologies Private Ltd.
 Softla technologies is a private company established on june 23 2013 in Ernakulam india.
 They are focusing on providing IT related services and solutions especially in the field of Automobile,Argriculture,hospitality and software solutions.The company primarily focuses on publishing, consulting, and provision of software. Software publication comprises the creation, provision, and documentation of pre-built (non-customized) operating systems, business & other applications, and computer game software for all platforms. Providing the best answer in the form of custom software after assessing the user's demands and issues is part of consulting. Custom software also covers software that is created specifically for a user's request. Included are also web page creation, software maintenance, and writing any type of program in accordance with user instructions.
-It falls under the section REAL ESTATE, RENTING AND BUSINESS ACTIVITIES and the division COMPUTER AND RELATED ACTIVITIES.
-	![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT16LWMQ7MrdTar0NyW0_hUW_kKE4Jd-DWbOXpaOdA-jA&s)
+It falls under the section REAL ESTATE,RENTING AND BUSINESS ACTIVITIES and the division COMPUTER AND RELATED ACTIVITIES.
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT16LWMQ7MrdTar0NyW0_hUW_kKE4Jd-DWbOXpaOdA-jA&s)
+	
 ### Current IT set up
 ---------------------
 
