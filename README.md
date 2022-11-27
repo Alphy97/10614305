@@ -41,7 +41,7 @@ It falls under the section REAL ESTATE, RENTING AND BUSINESS ACTIVITIES and the 
 
 Softila technologies consist of 10 employees.They are bulding there software apllications using programming languages php,.det,java .Their selected technology of cloud is virtual machines .Basicaly they are  bulding everything in a private  cloud based environment .Their choosen cloud service provider is AWS and Godaddy.They are using 1 AWS server and 2 Godaddy server to host all of their services and 1 onpremises server for project management .
 
-### contrast of cloud and non-cloud solutiong of softila
+### Contrast of cloud and non-cloud solutions of softila
 ----------------------------------------------------------
 Softila project management is done via non cloud solution while application development is done on cloud solution.On anlysising these two came to the below points
 
