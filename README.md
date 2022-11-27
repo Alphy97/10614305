@@ -29,6 +29,7 @@ Image	![alt text](https://www.bing.com/images/search?view=detailV2&ccid=NAi4PT8k
 Businesses struggling to cope with serious IT technical issues,security challenges and the threat their data and systems from cyber hacking,now is the time reasses what technology is for ,and wheather there is an alternative to in-house IT-network. Fortunately we have alternative :cloud computing .Arrival of cloud computing gave an opportunity for SMEs to take control of their IT systems once and for all.Cloud computing offers the chnace to take management of all your business's IT issues away while remaining fully in control.
 
 ### **Background of the enterprise**
+------------------------------------
 
 This report provides analysis of IT setup as well as cloud strategy of Softla technologies Private Ltd.
 Softla technologies is a private company established on june 23 2013 in Ernakulam india.
@@ -39,4 +40,15 @@ It falls under the section REAL ESTATE, RENTING AND BUSINESS ACTIVITIES and the 
 ---------------------
 
 Softila technologies consist of 10 employees.They are bulding there software apllications using programming languages php,.det,java .Their selected technology of cloud is virtual machines .Basicaly they are  bulding everything in a private  cloud based environment .Their choosen cloud service provider is AWS and Godaddy.They are using 1 AWS server and 2 Godaddy server to host all of their services and 1 onpremises server for project management .
+
+### contrast of cloud and non-cloud solutiong of softila
+----------------------------------------------------------
+Softila project management is done via non cloud solution while application development is done on cloud solution.On anlysising these two came to the below points
+
+Table	| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text 
+
+
 
