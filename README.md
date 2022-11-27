@@ -45,7 +45,7 @@ Softila technologies consist of 10 employees.They are bulding there software apl
 ----------------------------------------------------------
 Softila project management is done via non cloud solution while application development is done on cloud solution.On anlysising these two came to the below points
 
-Table	| Syntax | Description |
+| Syntax | Description |
 
 | ----------- | ----------- |
 | Header | Title |
