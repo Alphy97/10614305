@@ -35,5 +35,8 @@ Softla technologies is a private company established on june 23 2013 in Ernakula
 They are focusing on providing IT related services and solutions especially in the field of Automobile,Argriculture,hospitality and software solutions.The company primarily focuses on publishing, consulting, and provision of software. Software publication comprises the creation, provision, and documentation of pre-built (non-customized) operating systems, business & other applications, and computer game software for all platforms. Providing the best answer in the form of custom software after assessing the user's demands and issues is part of consulting. Custom software also covers software that is created specifically for a user's request. Included are also web page creation, software maintenance, and writing any type of program in accordance with user instructions.
 It falls under the section REAL ESTATE, RENTING AND BUSINESS ACTIVITIES and the division COMPUTER AND RELATED ACTIVITIES.
 
-Current IT set up
+###Current IT set up
 ---------------------
+
+Softila technologies consist of 10 employees.They are bulding there software apllications using programming languages php,.det,java .Their selected technology of cloud is virtual machines .Basicaly they are  bulding everything in a private  cloud based environment .Their choosen cloud service provider is AWS and Godaddy.They are using 1 AWS server and 2 Godaddy server to host all of their services and 1 onpremises server for project management .
+
