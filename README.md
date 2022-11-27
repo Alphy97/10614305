@@ -45,13 +45,13 @@ Softila technologies consist of 10 employees.They are bulding there software apl
 ----------------------------------------------------------
 Softila project management is done via non cloud solution while application development is done on cloud solution.On anlysising these two came to the below points
 
-| Syntax | Description |
-
-| ----------- | ----------- |
-
-| Header | Title |
-
-| Paragraph | Text | 
-
+| Colud                                   | Non Cloud   |
+| ----------------------------------------| ----------- |
+| Better cost planning and forcasting     | Title       |
+| Highest levels of resilience            | Text        | 
+| Build-in disaster recovery              |             |
+| vastly improved security and backup     |
+| Greater scaleability                    |
+| Remote and out-of-office working        | 
 
 
