@@ -50,14 +50,14 @@ Softila technologies consist of 10 employees.They are bulding there software apl
 ----------------------------------------------------------
 Softila project management is done via non cloud solution while application development is done on cloud solution.On anlysising these two came to the below points
 
-| Colud                                   | Non Cloud   |
-| ----------------------------------------| ----------- |
-| Better cost planning and forcasting     | Title       |
-| Highest levels of resilience            | Text        | 
-| Build-in disaster recovery              |             |
-| vastly improved security and backup     |
-| Greater scaleability                    |
-| Remote and out-of-office working        |
+| Colud                                   | Non Cloud                                       |
+| ----------------------------------------| ------------------------------------------------|
+| Better cost planning and forcasting     |Co-located within the data centre                |
+| Highest levels of resilience            |Confifencial and security is high                | 
+| Build-in disaster recovery              |Maintenance is difficult                         |
+| vastly improved security and backup     |Remote and out-of office working not posible     |
+| Greater scaleability                    |Costantly requiring time-consuming manuel updates|
+| Remote and out-of-office working        |or costly upgrades 
 | Automation of software updates          |
 | Reduction of cost                       |
 | incresed collaboration between employess| 
