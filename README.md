@@ -2,7 +2,7 @@
 =======
 # CA1-Assignment 
 https://github.com/Alphy97/10614305.git
-# referance 
+# reference 
            # heading first
            ## sub section
            ### sub section2
