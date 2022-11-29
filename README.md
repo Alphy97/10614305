@@ -84,6 +84,7 @@ You can run code with AWS lambda withour setting up or managing servers.There ar
 Incoming trafic is split among numerous targets,including EC2 instances,contaniners,and IP addresss in one or more availability zones,It will keep track of the  wellbeing of the registerd targets,only sending traffic to those athat are good in shape.
 
 -Storing and Hosting they  are already using cloud platforms hence no recommendation from our side.
+
 -For Testing they are currently using manuel testing by the checking the testcases provided  the client specifications. I would like to recommend them a cloud based tesing service CloudQA .This aids in cost management.The flexibility, pay-per-use business models,scalability,and testing of complicated test environments combining many opearting systems,browsers and platform combinations are further benefits of cloud testing.
 
 5.CloudDA
