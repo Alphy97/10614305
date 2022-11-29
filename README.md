@@ -63,38 +63,38 @@ Softila project management and development solutions is done via non cloud solut
 | Increased collaboration between employees|Scalabily as per the requirement not possible.                        |
 |                                          |                                                                     |
 
-- As per the analysis of their current IT set up ,These recommendation would be help them to achieve more result in minimum cost.
+1. As per the analysis of their current IT set up ,These recommendation would be help them to achieve more result in minimum cost.
 Use of  already bult in platform as a service from cloud for developing their applications instead of location virtual machine and purchasing tools needed for the development ,for an example they can use amazon EC2,AWS Lambda,Amazon Lightsail,Elastic loadbalancing .These recommendataions would be benefit for them during their application development phase.
 
-               1.Amazon Light sale
+               - **Amazon Light sale**
              
 For developers,students,small enterprises, and other customers who require a solution to build and run their application on cloud,**Amazon Light sale** is a virtual private server(VPS)provider and the simplest method to get started with AWS.
  
-               2.Amazon EC2
+               -**Amazon EC2**
                   
 Scalable computing power is offered by **Amazon elastic compute cloud(Amazon EC2)** in the amazon web services cloud.By using amazon EC2,You can develop and deploy apps for quickly because you  won't need to make an upfront hardware investment.
 
-               3.AWS Lambda
+               -**AWS Lambda**
 
 The serverless compute services **AWS lambda** executes your code in response to events and manages the underlying compute resource for you automatically.These can be updates or status changes,like when a customer adds something to their shopping cart on an e-commerce website.
 You can run code with **AWS lambda** without setting up or managing servers.There are no fees when your code is not executing;you only pay for the compute time you use.You may use lambda to run code for almost any kind of application or backend service with no administration required .
 
-              4.Elastic load balancers 
+              -**Elastic load balancers**
 
 By using **Elastic load balancers** Incoming traffic is split among numerous targets,including EC2 instances,containers,and IP address in one or more availability zones,It will keep track of the  wellbeing of the registered targets,only sending traffic to those that are good in shape.
 
 - Storing and Hosting they  are already using cloud platforms hence no recommendation from our side.
 
-- For Testing they are currently using manual testing by the checking the testcases provided  the client specifications. I would like to recommend them a cloud based tesing service CloudQA .This aids in cost management.The flexibility, pay-per-use business models,scalability,and testing of complicated test environments combining many operating systems,browsers and platform combinations are further benefits of cloud testing.
+2. For Testing they are currently using manual testing by the checking the testcases provided  the client specifications. I would like to recommend them a cloud based tesing service CloudQA .This aids in cost management.The flexibility, pay-per-use business models,scalability,and testing of complicated test environments combining many operating systems,browsers and platform combinations are further benefits of cloud testing.
 
-             5.CloudDA
+              -**CloudDA**
 
 One of the increasingly popular cloud-based automation testing technologies is **CloudQA**.It is capable of testing both online and mobile applications.
 
--For Project management they are working with their own server.As per them they are not migrating to cloud because of the cost .Company is very small and only 10 employees are there.They are not taking  huge amount of  projects,
+3.For Project management they are working with their own server.As per them they are not migrating to cloud because of the cost .Company is very small and only 10 employees are there.They are not taking  huge amount of  projects,
 They could successfully  maintain that server.As compared with cost associated with it,They found physical server is more affordable.As per their environement and conditions a physical server is enough for dealing with project management of softila technologies.
  
--For easy and quickly management of users and groups and as well as enabling single sign-on for services and applications I would suggest them microsoft active directory .Administrators and users can easily locate and use the information that active directory holds about network objects.A structured data store serves as the foundation for the logical, hierarchical organization of directory data in Active Directory
+4.For easy and quickly management of users and groups and as well as enabling single sign-on for services and applications I would suggest them microsoft active directory .Administrators and users can easily locate and use the information that active directory holds about network objects.A structured data store serves as the foundation for the logical, hierarchical organization of directory data in Active Directory
 
           6.AWS active directory
 
