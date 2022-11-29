@@ -45,7 +45,7 @@ Softila technologies consist of 10 employees.They are bulding there software apl
 
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-qf3i77gsc4cLkl9rPXys62fUACpkZ9FQ7PRFkpe4mw&s)
                       
-# Recommendations
+# Recommendations and Justifications 
 
 ### Contrast of cloud and non-cloud solutions of softila
 ----------------------------------------------------------
@@ -66,7 +66,7 @@ Softila project management and development solutions is done via non cloud solut
 - As per the analysis of their curresnt IT set up ,These recommendation would be help them to achieve more result in minimun cost.
 Use of  already bult in platform as a serverices from cloud for developting their applications insted of location virtual machine and purchasing tools needed for the development ,for an example they can use amazon EC2,AWS Lambda,Amazon Lightsail,Elastic loadbalancing .These recommendtaion would be benefit for them during their application development phase.
 
-                1.Amazon Light sale
+               1.Amazon Light sale
              
 For developers,students,snall enterprises, and other customers who require a solution to build and run their application on cloud,Amazon Light sale is a virtual private server(VPS)provider and the simplest method to get started with AWS.
  
