@@ -93,6 +93,7 @@ One of the increasingly popular cloud-based automation testing technologies is *
 
 -For Project management they are working with their own server.As per them they are not migrating to cloud because of the cost .Company is very small and only 10 employees are there.They are not taking  huge amount of  projects,
 They could successfully  maintain that server.As compared with cost associated with it,They found physical server is more affodable.As per their envirnement and conditions a physical server is enough for dealing with project managent of softila technologies.
+
 -For easy and quickly management of users and groups and aswell as enabling single sign-on for services and applications I would suggest them microsoft active directory .Administartors and users can easily locate and use the information that active directory holds about network objects.A structured data store serves as the foundation for the logical,hierarchical organization of directory data in Active Directory
 
           6.AWS active directory
