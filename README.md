@@ -81,13 +81,13 @@ You can run code with **AWS lambda** without setting up or managing servers.Ther
 
 ***For Testing they are currently using manual testing by the checking the testcases provided  the client specifications. I would like to recommend them a cloud based tesing service CloudQA .This aids in cost management.The flexibility, pay-per-use business models,scalability,and testing of complicated test environments combining many operating systems,browsers and platform combinations are further benefits of cloud testing***
 
-  1. **CloudDA** : One of the increasingly popular cloud-based automation testing technologies is **CloudQA**.It is capable of testing both online and mobile applications.
+  - **CloudDA** : One of the increasingly popular cloud-based automation testing technologies is **CloudQA**.It is capable of testing both online and mobile applications.
 
 ***For Project management they are working with their own server.As per them they are not migrating to cloud because of the cost .Company is very small and only 10 employees are there.They are not taking  huge amount of  projects,
 They could successfully  maintain that server.As compared with cost associated with it,They found physical server is more affordable.As per their environement and conditions a physical server is enough for dealing with project management of softila technologies***
 
 ***For easy and quickly management of users and groups and as well as enabling single sign-on for services and applications I would suggest them microsoft active directory .Administrators and users can easily locate and use the information that active directory holds about network objects.A structured data store serves as the foundation for the logical, hierarchical organization of directory data in Active Directory***
 
- 1. **AWS active directory** : AWS active directory service makes it simple to create and maintain directories in the AWS cloud or link your AWS resources to an alreday-existing Microsoft active directory that is located on-premises.Onces your directory is ready,It can be used  for number of things,including Manage groups and users.enabling single sign-on for services and application.
+ - **AWS active directory** : AWS active directory service makes it simple to create and maintain directories in the AWS cloud or link your AWS resources to an alreday-existing Microsoft active directory that is located on-premises.Onces your directory is ready,It can be used  for number of things,including Manage groups and users.enabling single sign-on for services and application.
 
 
