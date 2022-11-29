@@ -91,5 +91,12 @@ By using **Elatic load balancers** Incoming trafic is split among numerous targe
 
 One of the increasingly popular cloud-based automation testing technologies is **ClodQA**.It is capable of tesing both online and mobile applications.
 
+-For Project management they are working with their own server.As per them they are not migrating to cloud because of the cost .Company is very small and only 10 employees are there.They are not taking  huge amount of  projects,
+They could successfully  maintain that server.As compared with cost associated with it,They found physical server is more affodable.As per their envirnement and conditions a physical server is enough for dealing with project managent of softila technologies.
+-For easy and quickly management of users and groups and aswell as enabling single sign-on for services and applications I would suggest them microsoft active directory .Administartors and users can easily locate and use the information that active directory holds about network objects.A structured data store serves as the foundation for the logical,hierarchical organization of directory data in Active Directory
+
+          6.AWS active directory
+
+AWS active directory service makes it simple to create and maintain directories in the AWS cloud or link your AWS resources to an alreday-existing Microsoft active directory that is located on-premises.Onces your directory is ready,It can be used  for number of things,including Manage groups and users.enabling single sign-on for services and application.
 
 
