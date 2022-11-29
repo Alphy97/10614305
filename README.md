@@ -45,7 +45,7 @@ Softila technologies consist of 10 employees.They are building there software ap
 
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-qf3i77gsc4cLkl9rPXys62fUACpkZ9FQ7PRFkpe4mw&s)
                       
-# Recommendations and Justifications 
+### Recommendations and Justifications 
 
 ### Contrast of cloud and non-cloud solutions of softila
 ----------------------------------------------------------
