@@ -67,20 +67,20 @@ As per the analysis of their curresnt IT set up ,These recommendation would be h
 .
 Use of  already bult in platform as a serverices from cloud for developting their applications insted of location virtual machine and purchasing tools needed for the development ,for an example they can use amazon EC2,AWS Lambda,Amazon Lightsail,Elastic loadbalancing 
 
-Amazon Light sale
+1.Amazon Light sale
 -----------------
 For developers,students,snall enterprises, and other customers who require a solution to build and run their application on cloud,Amazon Light sale is a virtual private server(VPS)provider and the simplest method to get started with AWS.
 
-Amazon EC2
+2.Amazon EC2
 -----------
 Scalable computing power is offerd by Amazon elastic compute cloud(Amazon EC2)in the amazon web services cloud.By using amazon EC2,You can develop and deploy apps for quickly because you dont won't need to make an upfront hardware investment.
 
-AWS Lambda
+3.AWS Lambda
 ------------
 The serverless compute services AWS lambda executes your code in response to events and manages the underlying compute resource for you automatically.These can be updates or status changes,like when a customer adds something to their shopping cart on an e-commerce website.
 You can run code with AWS lambda withour setting up or managing servers.There are no fees when your code is not executing;you only pay for the compute time you use.You may use lambda to run code for almost any kind of application or backend service with no administration required .
 
-Elastic load balancers 
+4.Elastic load balancers 
 ------------
 Incoming trafic is split among numerous targets,including EC2 instances,contaniners,and IP addresss in one or more availability zones,It will keep track of the  wellbeing of the registerd targets,only sending traffic to those athat are good in shape.
 
