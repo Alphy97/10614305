@@ -57,9 +57,9 @@ Softila project management is done via non cloud solution while application deve
 | Build-in disaster recovery               |Maintenance is difficult                                             |
 | vastly improved security and backup      |Remote and out-of office working not posible                         |
 | Greater scaleability                     |Costantly requiring time-consuming manuel updates or costly upgrades |
-| Remote and out-of-office working         |
-| Automation of software updates           |
-| Reduction of cost                        |
-| Increased collaboration between employess| 
+| Remote and out-of-office working         |Regularly and consistently undertaking the back-ups                  |
+| Automation of software updates           |Disaster recovery is very difficult                                  |                                                   | Reduction of cost                        |Underutilised divices                                                |
+| Increased collaboration between employess|Scalabily as per the requiremnt not possible.                        |
+|                                          |                                                                     |
 
 
