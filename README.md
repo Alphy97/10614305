@@ -45,10 +45,11 @@ Softila technologies consist of 10 employees.They are bulding there software apl
 
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-qf3i77gsc4cLkl9rPXys62fUACpkZ9FQ7PRFkpe4mw&s)
                       
+# Recommendations
 
 ### Contrast of cloud and non-cloud solutions of softila
 ----------------------------------------------------------
-Softila project management is done via non cloud solution while application development is done on cloud solution.On anlysising these two came to the below points
+Softila project management and development solutions is done via non cloud solution while application hosting  is done on cloud solution.On anlysising these two came to the below points
 
 | Colud                                    | Non Cloud                                                           |
 | ---------------------------------------- | --------------------------------------------------------------------|
@@ -61,5 +62,28 @@ Softila project management is done via non cloud solution while application deve
 | Automation of software updates           |Disaster recovery is very difficult                                  |                                                   | Reduction of cost                        |Underutilised divices                                                |
 | Increased collaboration between employess|Scalabily as per the requiremnt not possible.                        |
 |                                          |                                                                     |
+
+As per the analysis of their curresnt IT set up ,These recommendation would be help them to achieve more result in minimun cost
+.
+Use of  already bult in platform as a serverices from cloud for developting their applications insted of location virtual machine and purchasing tools needed for the development ,for an example they can use amazon EC2,AWS Lambda,Amazon Lightsail,Elastic loadbalancing 
+
+Amazon Light sale
+-----------------
+For developers,students,snall enterprises, and other customers who require a solution to build and run their application on cloud,Amazon Light sale is a virtual private server(VPS)provider and the simplest method to get started with AWS.
+
+Amazon EC2
+-----------
+Scalable computing power is offerd by Amazon elastic compute cloud(Amazon EC2)in the amazon web services cloud.By using amazon EC2,You can develop and deploy apps for quickly because you dont won't need to make an upfront hardware investment.
+
+AWS Lambda
+------------
+The serverless compute services AWS lambda executes your code in response to events and manages the underlying compute resource for you automatically.These can be updates or status changes,like when a customer adds something to their shopping cart on an e-commerce website.
+You can run code with AWS lambda withour setting up or managing servers.There are no fees when your code is not executing;you only pay for the compute time you use.You may use lambda to run code for almost any kind of application or backend service with no administration required .
+
+Elastic load balancers 
+------------
+Incoming trafic is split among numerous targets,including EC2 instances,contaniners,and IP addresss in one or more availability zones,It will keep track of the  wellbeing of the registerd targets,only sending traffic to those athat are good in shape.
+
+
 
 
