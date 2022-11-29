@@ -41,7 +41,7 @@ It falls under the section REAL ESTATE,RENTING AND BUSINESS ACTIVITIES and the d
 ### Current IT set up
 ----------------------
 
-Softila technologies consist of 10 employees.They are bulding there software apllications using programming languages php,.det,java .Their selected technology of cloud is virtual machines .Basicaly they are  bulding everything in a private  cloud based environment .Their choosen cloud service provider is AWS and Godaddy.They are using 1 AWS server and 2 Godaddy server to host all of their services and 1 onpremises server for project management .
+Softila technologies consist of 10 employees.They are bulding there software apllications using programming languages php,.det,java .Their selected technology of cloud is virtual machines .Basicaly they are  hosting  everything in a private  cloud based environment .Their choosen cloud service provider is AWS and Godaddy.The development of application software is carried out in local virtual machine .They are using 1 AWS server and 2 Godaddy server to host all of their services . All of the related services which are in need for the hosting including database and JSON are installed and kept in cloud server. 1 onpremises server is used particularly for  project management .
 
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-qf3i77gsc4cLkl9rPXys62fUACpkZ9FQ7PRFkpe4mw&s)
                       
