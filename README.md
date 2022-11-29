@@ -66,29 +66,29 @@ Softila project management and development solutions is done via non cloud solut
 - As per the analysis of their curresnt IT set up ,These recommendation would be help them to achieve more result in minimun cost.
 Use of  already bult in platform as a serverices from cloud for developting their applications insted of location virtual machine and purchasing tools needed for the development ,for an example they can use amazon EC2,AWS Lambda,Amazon Lightsail,Elastic loadbalancing .These recommendtaion would be benefit for them during their application development phase.
 
-1.Amazon Light sale
------------------
+                1.Amazon Light sale
+             
 For developers,students,snall enterprises, and other customers who require a solution to build and run their application on cloud,Amazon Light sale is a virtual private server(VPS)provider and the simplest method to get started with AWS.
-
-2.Amazon EC2
------------
+ 
+               2.Amazon EC2
+                  
 Scalable computing power is offerd by Amazon elastic compute cloud(Amazon EC2)in the amazon web services cloud.By using amazon EC2,You can develop and deploy apps for quickly because you dont won't need to make an upfront hardware investment.
 
-3.AWS Lambda
-------------
+               3.AWS Lambda
+
 The serverless compute services AWS lambda executes your code in response to events and manages the underlying compute resource for you automatically.These can be updates or status changes,like when a customer adds something to their shopping cart on an e-commerce website.
 You can run code with AWS lambda withour setting up or managing servers.There are no fees when your code is not executing;you only pay for the compute time you use.You may use lambda to run code for almost any kind of application or backend service with no administration required .
 
-4.Elastic load balancers 
-------------
+              4.Elastic load balancers 
+
 Incoming trafic is split among numerous targets,including EC2 instances,contaniners,and IP addresss in one or more availability zones,It will keep track of the  wellbeing of the registerd targets,only sending traffic to those athat are good in shape.
 
--Storing and Hosting they  are already using cloud platforms hence no recommendation from our side.
+- Storing and Hosting they  are already using cloud platforms hence no recommendation from our side.
 
--For Testing they are currently using manuel testing by the checking the testcases provided  the client specifications. I would like to recommend them a cloud based tesing service CloudQA .This aids in cost management.The flexibility, pay-per-use business models,scalability,and testing of complicated test environments combining many opearting systems,browsers and platform combinations are further benefits of cloud testing.
+- For Testing they are currently using manuel testing by the checking the testcases provided  the client specifications. I would like to recommend them a cloud based tesing service CloudQA .This aids in cost management.The flexibility, pay-per-use business models,scalability,and testing of complicated test environments combining many opearting systems,browsers and platform combinations are further benefits of cloud testing.
 
-5.CloudDA
------------
+             5.CloudDA
+
 One of the increasingly popular cloud-based automation testing technologies is ClodQA.It is capable of tesing both online and mobile applications.
 
 
