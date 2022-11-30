@@ -3,11 +3,14 @@
 [CA1-Assignment](https://github.com/Alphy97/10614305.git)
  
 Lecturer Name :Paul Laird
+
 No of words   :
+
 Presented by  : Alphy K.Mathew 
+
 Student ID    :10614305
 
-# <Company choosen :Softila Technologies Pvt Ltd="color: green;">
+##Company choosen :Softila Technologies Pvt Ltd
 
 ## Introduction
 Businesses struggling to cope with serious IT technical issues, security challenges and the threat their data and systems from cyber hacking, now is the time reassess what technology is for ,and wheather there is an alternative to in-house IT-network. Fortunately we have alternative : cloud computing .Arrival of cloud computing gave an opportunity for SMEs to take control of their IT systems once and for all.Cloud computing offers the chance to take management of all your business's IT issues away while remaining fully in control.
