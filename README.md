@@ -53,7 +53,7 @@ Softila project management and development solutions is done via non cloud solut
 We are analysing their infrastructure in Development,Testing ,Hosting and Project management areas 
 
 ***As per the analysis of their current IT set up ,These recommendation would be help them to achieve more result in minimum cost.
-Use of platform as a service from cloud for developing their applications instead of location virtual machine and purchasing appropriate tools for an example they can use amazon EC2,AWS Lambda,Amazon Lightsail,Elastic loadbalancing .These recommendataions would be benefit for them during their application development phase.***
+Use of platform as a services from cloud for developing their applications instead of local virtual machines and purchasing appropriate tools, for an example they can use amazon EC2,AWS Lambda,Amazon Lightsail,Elastic loadbalancing .These recommendations would  benefit  them during their application development phase.***
    1. **Amazon Light sale** : For developers,students,small enterprises, and other customers who require a solution to build and run their application on cloud,**Amazon Light sale** is a virtual private server(VPS)provider and the simplest method to get started with AWS.
  
   2. **Amazon EC2** :Scalable computing power is offered by **Amazon elastic compute cloud(Amazon EC2)** in the amazon web services cloud.By using amazon EC2,You can develop and deploy apps for quickly because you  won't need to make an upfront hardware investment.
@@ -63,10 +63,10 @@ You can run code with **AWS lambda** without setting up or managing servers.Ther
 
  4. **Elastic load balancers** : By using **Elastic load balancers** Incoming traffic is split among numerous targets,including EC2 instances,containers,and IP address in one or more availability zones,It will keep track of the  wellbeing of the registered targets,only sending traffic to those that are good in shape.
 
-***Storing and Hosting they  are already using cloud platforms hence no recommendation from our side***
+***Storing and Hosting they are already using cloud platforms hence no recommendation from our side***
  
 
-***For Testing they are currently using manual testing by the checking the testcases provided  the client specifications. I would like to recommend them a cloud based tesing service CloudQA .This aids in cost management.The flexibility, pay-per-use business models,scalability,and testing of complicated test environments combining many operating systems,browsers and platform combinations are further benefits of cloud testing***
+***For Testing they are currently using manual testing by the checking the testcases provided by client specifications.I would like to recommend them a cloud based tesing service CloudQA .This aids in cost management.The flexibility, pay-per-use business models,scalability,and testing of complicated test environments combining many operating systems,browsers and platform combinations are further benefits of cloud testing***
 
   - **CloudDA** : One of the increasingly popular cloud-based automation testing technologies is **CloudQA**.It is capable of testing both online and mobile applications.
 
@@ -75,7 +75,13 @@ They could successfully  maintain that server.As compared with cost associated w
 
 ***For easy and quickly management of users and groups and as well as enabling single sign-on for services and applications I would suggest them microsoft active directory .Administrators and users can easily locate and use the information that active directory holds about network objects.A structured data store serves as the foundation for the logical, hierarchical organization of directory data in Active Directory***
 
- - **AWS active directory** : AWS active directory service makes it simple to create and maintain directories in the AWS cloud or link your AWS resources to an alreday-existing Microsoft active directory that is located on-premises.Onces your directory is ready,It can be used  for number of things,including Manage groups and users.enabling single sign-on for services and application.
+ - **AWS active directory** : AWS active directory service makes it simple to create and maintain directories in the AWS cloud or link your AWS resources to an alreday existing Microsoft active directory that is located on-premises.Onces your directory is ready,It can be used  for number of things,including Manage groups and users.enabling single sign-on for services and application.
+
+Provided recommendations are based on below advantages  of cloud computing
+
+- A cloud environment consists of a very extensive infrastructure that offers a pool of IT resources that can be rented on a pay-as-you-go model where only the actual usage of the IT resources is charged. Compared to comparable on-premises environments, the cloud has the potential to reduce initial and operational costs proportional to pay-as-you-go usage.
+- The cloud's inherent ability to scale IT resources allows organizations to respond to unpredictable fluctuations in usage without being constrained by predefined thresholds that might deny usage requests from customers. Conversely, the cloud's ability to reduce the required scale is a function directly related to proportional cost benefits.
+- By leveraging cloud environments to increase the availability and reliability of IT resources, organizations can better guarantee service quality to their customers and further reduce or avoid potential business losses due to unexpected runtime outages.
  
 ## Conclusion
 
