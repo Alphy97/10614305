@@ -85,7 +85,7 @@ Softila technologies infrastructure including both cloud and non-cloud terminolo
 
 Chris Brownlee.(2017) ”Advantages of cloud computing” .CLOUD COMPUTING FOR BUSINESS,32
 
-Softila technologies Pvt Ltd| Available at : [Softila wedsite]( Softila Technologies Pvt Ltd | Facebook)
+Softila technologies Pvt Ltd| Available at : [Softila wedsite]( https://www.facebook.com/softila )
 
 AWS cloud service provider | Available at : [Amazon website] ( https://aws.amazon.com )
 
