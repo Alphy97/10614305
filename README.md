@@ -77,7 +77,7 @@ They could successfully  maintain that server.As compared with cost associated w
 
  - **AWS active directory** : AWS active directory service makes it simple to create and maintain directories in the AWS cloud or link your AWS resources to an alreday existing Microsoft active directory that is located on-premises.Onces your directory is ready,It can be used  for number of things,including Manage groups and users.enabling single sign-on for services and application.
 
-Provided recommendations are based on below advantages  of cloud computing
+**Provided recommendations are based on below advantages  of cloud computing**
 
 - A cloud environment consists of a very extensive infrastructure that offers a pool of IT resources that can be rented on a pay-as-you-go model where only the actual usage of the IT resources is charged. Compared to comparable on-premises environments, the cloud has the potential to reduce initial and operational costs proportional to pay-as-you-go usage.
 - The cloud's inherent ability to scale IT resources allows organizations to respond to unpredictable fluctuations in usage without being constrained by predefined thresholds that might deny usage requests from customers. Conversely, the cloud's ability to reduce the required scale is a function directly related to proportional cost benefits.
