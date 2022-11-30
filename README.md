@@ -48,6 +48,7 @@ Softila project management and development solutions is done via non cloud solut
 | Increased collaboration between employees|Scalabily as per the requirement not possible.                       |
 |                                          |                                                                     |
 
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPLCK7mBlOjWabEv-PquMpkXgfQNW5Lf_ybA&usqp=CAU)
 ### Recommendations and Justifications 
 
 We are analysing their infrastructure in Development,Testing ,Hosting and Project management areas 
