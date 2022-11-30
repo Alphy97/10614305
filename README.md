@@ -34,6 +34,8 @@ Softila technologies consist of 10 employees.They are building there software ap
                       
 ### Contrast of cloud and non-cloud solutions
 ----------------------------------------------------------
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPLCK7mBlOjWabEv-PquMpkXgfQNW5Lf_ybA&usqp=CAU)
+
 Softila project management and development solutions is done via non cloud solution while application hosting  is done on cloud solution.On analysing these two came to the below points
 
 | Colud                                    | Non Cloud                                                           |
@@ -48,7 +50,6 @@ Softila project management and development solutions is done via non cloud solut
 | Increased collaboration between employees|Scalabily as per the requirement not possible.                       |
 |                                          |                                                                     |
 
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPLCK7mBlOjWabEv-PquMpkXgfQNW5Lf_ybA&usqp=CAU)
 ### Recommendations and Justifications 
 
 We are analysing their infrastructure in Development,Testing ,Hosting and Project management areas 
