@@ -10,7 +10,7 @@ Presented by  : Alphy K.Mathew
 
 Student ID    :10614305
 
-##Company choosen :Softila Technologies Pvt Ltd
+## Company choosen :Softila Technologies Pvt Ltd
 
 ## Introduction
 Businesses struggling to cope with serious IT technical issues, security challenges and the threat their data and systems from cyber hacking, now is the time reassess what technology is for ,and wheather there is an alternative to in-house IT-network. Fortunately we have alternative : cloud computing .Arrival of cloud computing gave an opportunity for SMEs to take control of their IT systems once and for all.Cloud computing offers the chance to take management of all your business's IT issues away while remaining fully in control.
@@ -76,5 +76,16 @@ They could successfully  maintain that server.As compared with cost associated w
 ***For easy and quickly management of users and groups and as well as enabling single sign-on for services and applications I would suggest them microsoft active directory .Administrators and users can easily locate and use the information that active directory holds about network objects.A structured data store serves as the foundation for the logical, hierarchical organization of directory data in Active Directory***
 
  - **AWS active directory** : AWS active directory service makes it simple to create and maintain directories in the AWS cloud or link your AWS resources to an alreday-existing Microsoft active directory that is located on-premises.Onces your directory is ready,It can be used  for number of things,including Manage groups and users.enabling single sign-on for services and application.
+ 
+## Conclusion
+
+Softila technologies infrastructure including both cloud and non-cloud terminologies.As analysed their IT operations and suggested some options based on cloud technologies to improve performance at minimal cost.Also noticed that some specific area like hosting and project management no suggestion is provided beacuse their current option is good to continue with.
+
+## Referance List
+
+Chris Brownlee.(2017) ”Advantages of cloud computing” .CLOUD COMPUTING FOR BUSINESS,32
+Softila technologies Pvt Ltd| Available at : [Softila wedsite]( Softila Technologies Pvt Ltd | Facebook)
+AWS cloud service provider | Available at : [Amazon website] ( https://aws.amazon.com )
+
 
 
